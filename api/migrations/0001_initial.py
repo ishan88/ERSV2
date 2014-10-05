@@ -18,6 +18,7 @@ class Migration(migrations.Migration):
                 ('id', models.AutoField(serialize=False, primary_key=True)),
                 ('created', models.DateField(auto_now=True)),
                 ('name', models.CharField(max_length=50)),
+                ('address', models.CharField(max_length=50)),
                 ('user', models.ForeignKey(to=settings.AUTH_USER_MODEL)),
             ],
             options={
