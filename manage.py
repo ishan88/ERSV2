@@ -3,7 +3,11 @@ import os
 import sys
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "ersv2server.settings")
+=======
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "ERS_v2_Server.settings")
+>>>>>>> 680f91b712db3ce989e815f8ecdf12c5541a001a
 
     from django.core.management import execute_from_command_line
 

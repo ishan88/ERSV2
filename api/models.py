@@ -1,8 +1,11 @@
+<<<<<<< HEAD
 '''
 Created on Oct 10, 2014
 
 @author: ishan
 '''
+=======
+>>>>>>> 680f91b712db3ce989e815f8ecdf12c5541a001a
 from django.db import models
 
 # Create your models here.

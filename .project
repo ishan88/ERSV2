@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>ersv2server</name>
+=======
+	<name>ERS_v2_Server</name>
+>>>>>>> 680f91b712db3ce989e815f8ecdf12c5541a001a
 	<comment></comment>
 	<projects>
 	</projects>
